@@ -1,4 +1,4 @@
-Olá, eu sou Ricardo Bierhals, um apaixonado desenvolvedor web full stack autodidata e estudante de engenharia de software. 
+Olá, eu sou Ricardo Bierhals, um apaixonado desenvolvedor web full stack e mobile autodidata e estudante de engenharia de software. 
 Minha paixão por software está em sonhar com idéias e torná-las realidade. A possibilidade de criar softwares que impactem na vida das pessoas me fascina.
 
 Também sou um entusiasta e defensor do código aberto. Aprendi muito com a comunidade de código open source e vejo como uma ótima forma de aprendizado, 
